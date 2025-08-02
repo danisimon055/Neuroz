@@ -1,22 +1,22 @@
 *Team Name:* Neuroz
 
-*Team Members*
+*Team Members:*
 *Team Lead:* Dany Konnakkottu Simon - MBCCET
 *Member 2:* Sharon Anna Reji - MBCCET
 
-Project Description
+Project Description:
 
 An elegant glass-style keyboard that types the wrong letters on purpose! Only when you ask nicely (press Enter), the keyboard politely asks if you want it fixed. Say "yes," and it rotates into a usable keyboard.
 
-The Problem (that doesn't exist)
+The Problem (that doesn't exist):
 
 People are typing too fast and accurately. Where’s the fun in that?
 
-The Solution (that nobody asked for)
+The Solution (that nobody asked for):
 
 We created a keyboard that deliberately outputs the *wrong letters* until you decide you’re ready to behave—and then, only then, it rotates and starts typing correctly.
 
-Technical Details
+Technical Details:
 
 ### Technologies/Components Used
 
@@ -34,21 +34,21 @@ Technical Details
 
 ---
 
-## Implementation
+## Implementation:
 ### For Software:
-#### Installation
+#### Installation:
 
 No installation needed! Just open the HTML file in any modern browser.
 
-#### Run
+#### Run:
 
 Simply open the HTML file with any browser:
 start index.html
 
 
-## Project Documentation
+## Project Documentation:
 
-### Screenshots
+### Screenshots:
 
 https://drive.google.com/file/d/1EBSUbEAHyUDrj96ylTnWmye-xgtJyLtz/view?usp=drive_link
 Initial state of the TypeShift keyboard with scenic background and translucent glass keys.
@@ -61,22 +61,22 @@ Popup appears when you press Enter, asking if you'd like the correct keyboard.
 
 ---
 
-### Diagrams
+### Diagrams:
 
 A user presses a key → Keyboard intercepts → Translates to wrong key (if not fixed) → Displays → Optionally corrects → UI rotates
 
-## Project Demo
+## Project Demo:
 
-### Video
+### Video:
 
 https://drive.google.com/file/d/1Ub50FNvu_vFJTECABvRhTvcPq7hiTZ2b/view?usp=drive_link
 This video shows the wrong keyboard in action, how it responds to physical key presses, and the dramatic keyboard rotation when "Yes" is clicked.
 
-### Additional Demos
+### Additional Demos:
 
 none
 
-## Team Contributions
+## Team Contributions:
 
 *Dany*: html,css,JavaScript
 *Sharon*:html,editor
