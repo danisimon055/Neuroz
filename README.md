@@ -42,8 +42,7 @@ No installation needed! Just open the HTML file in any modern browser.
 
 #### Run
 
-bash
-# Simply open the HTML file with any browser:
+Simply open the HTML file with any browser:
 start index.html
 
 
@@ -52,7 +51,7 @@ start index.html
 ### Screenshots
 
 https://drive.google.com/file/d/1EBSUbEAHyUDrj96ylTnWmye-xgtJyLtz/view?usp=drive_link
-Initial state of the wrong keyboard with scenic background and translucent glass keys.
+Initial state of the TypeShift keyboard with scenic background and translucent glass keys.
 
 https://drive.google.com/file/d/1gHdzT43SmPpp_JyXGG1tPA-8_ARTq1Jz/view?usp=drive_link
 After typing random keys — the output shows intentionally wrong letters.
