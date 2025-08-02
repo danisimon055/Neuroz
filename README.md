@@ -78,4 +78,5 @@ none
 
 ## Team Contributions
 
-*Dany and Sharon*: html,css,JavaScript
+*Dany*: html,css,JavaScript
+*Sharon*:html,editor
