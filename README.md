@@ -22,7 +22,7 @@ Technical Details
 
 *For Software:*
 
-* *Languages:* HTML, CSS, JavaScript
+* *Languages:* HTML
 * *Frameworks:* None
 * *Libraries:* None
 * *Tools:* Browser-based; uses in-browser audio and event handling
@@ -51,43 +51,32 @@ start index.html
 
 ### Screenshots
 
-!\[Screenshot1]\(Add screenshot 1 here)
+https://drive.google.com/file/d/1EBSUbEAHyUDrj96ylTnWmye-xgtJyLtz/view?usp=drive_link
 Initial state of the wrong keyboard with scenic background and translucent glass keys.
 
-!\[Screenshot2]\(Add screenshot 2 here)
+https://drive.google.com/file/d/1gHdzT43SmPpp_JyXGG1tPA-8_ARTq1Jz/view?usp=drive_link
 After typing random keys — the output shows intentionally wrong letters.
 
-!\[Screenshot3]\(Add screenshot 3 here)
+https://drive.google.com/file/d/1YaHUve8w_414Sj3r9OH-RGYOgLAGgyAF/view?usp=drive_link
 Popup appears when you press Enter, asking if you'd like the correct keyboard.
 
 ---
 
 ### Diagrams
 
-!\[Workflow]\(Add your workflow/architecture diagram here)
 A user presses a key → Keyboard intercepts → Translates to wrong key (if not fixed) → Displays → Optionally corrects → UI rotates
-
----
 
 ## Project Demo
 
 ### Video
 
-\[Add your demo video link here]
+https://drive.google.com/file/d/1Ub50FNvu_vFJTECABvRhTvcPq7hiTZ2b/view?usp=drive_link
 This video shows the wrong keyboard in action, how it responds to physical key presses, and the dramatic keyboard rotation when "Yes" is clicked.
 
 ### Additional Demos
 
-\[Add any fun GIFs or short clips showing usage on mobile, dramatic fails, etc.]
-
----
+none
 
 ## Team Contributions
 
-*Alex*: JavaScript logic, key mapping, DOM event integration
-*Sharon*: UI/UX design, styling with CSS, visual layout and animations
-*Rehan*: Testing, bug fixes, audio effects integration
-
----
-
-Let me know if you'd like a .md file generated or if you want placeholder images inserted automatically.
+*Dany and Sharon*: html,css,JavaScript
